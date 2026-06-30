@@ -43,7 +43,7 @@ This project is a front-end clone of the Amazon homepage created using pure HTML
 
 
 ## ✨ Features
-
+```
 ✅ Responsive Navigation Bar
 ✅ Amazon Style Search Bar
 ✅ Hero Banner Section
@@ -53,7 +53,7 @@ This project is a front-end clone of the Amazon homepage created using pure HTML
 ✅ Clean UI Design
 ✅ Beginner Friendly Project
 ✅ Fully Responsive Layout
-
+```
 
 <img width="1803" height="917" alt="Screenshot 2026-06-30 135419" src="https://github.com/user-attachments/assets/a86b86df-0a19-4d91-8a8c-79dcdc17cb23" />
 
