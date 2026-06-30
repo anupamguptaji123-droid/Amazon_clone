@@ -23,7 +23,7 @@ This project is a front-end clone of the Amazon homepage created using pure HTML
 
 🔗 **Live Website:** https://anupamguptaji123-droid.github.io/Amazon_clone/
 
-🔗 **GitHub Repository:** https://github.com/anupamguptaji123-droid.github.io/amazon-clone
+🔗 **GitHub Repository:** https://github.com/anupamguptaji123-droid/Amazon_clone
 
 
 ## 📸 Project Preview
