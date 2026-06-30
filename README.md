@@ -1,10 +1,11 @@
-# 🛒 Amazon Clone Website
+  # 🛒 Amazon Clone Website
 
 <div align="center">
 
 ![Amazon Clone](https://img.shields.io/badge/Project-Amazon%20Clone-FF9900?style=for-the-badge\&logo=amazon\&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
 ![Responsive](https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
@@ -20,9 +21,9 @@ This project is a front-end clone of the Amazon homepage created using pure HTML
 
 ## 🌟 Live Demo
 
-🔗 **Live Website:** `https://your-live-demo-link.netlify.app`
+🔗 **Live Website:** `https://anupamguptaji123-droid.github.io/Amazon_clone/`
 
-🔗 **GitHub Repository:** `https://github.com/yourusername/amazon-clone`
+🔗 **GitHub Repository:** `https://github.com/anupamguptaji123-droid.github.io/amazon-clone`
 
 
 ## 📸 Project Preview
