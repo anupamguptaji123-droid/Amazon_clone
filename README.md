@@ -38,6 +38,9 @@ This project is a front-end clone of the Amazon homepage created using pure HTML
 ✔ Footer Section
 ```
 
+<img width="1877" height="553" alt="Screenshot 2026-06-30 135406" src="https://github.com/user-attachments/assets/bd2323c3-a336-46e3-8b6b-a6a8a62e4e8a" />
+
+
 
 ## ✨ Features
 
@@ -50,6 +53,12 @@ This project is a front-end clone of the Amazon homepage created using pure HTML
 ✅ Clean UI Design
 ✅ Beginner Friendly Project
 ✅ Fully Responsive Layout
+
+
+<img width="1803" height="917" alt="Screenshot 2026-06-30 135419" src="https://github.com/user-attachments/assets/a86b86df-0a19-4d91-8a8c-79dcdc17cb23" />
+
+<img width="1797" height="842" alt="Screenshot 2026-06-30 135440" src="https://github.com/user-attachments/assets/19c4022c-e454-4fe9-9f88-0fbd577afc1a" />
+
 
 
 ## 🛠️ Tech Stack
@@ -92,7 +101,7 @@ Amazon-Clone/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/amazon-clone.git
+git clone https://github.com/anupamguptaji123-droid/amazon-clone.git
 ```
 
 ### Open Project
