@@ -63,6 +63,7 @@ This project is a front-end clone of the Amazon homepage created using pure HTML
 
 
 
+
 ## 🛠️ Tech Stack
 
 | Technology   | Usage                    |
