@@ -11,6 +11,14 @@
 
 ### 🛍️ A beautiful and responsive Amazon homepage clone built using **HTML** and **CSS**.
 
+
+## 🌟 Live Demo
+
+🔗 **Live Website:** https://anupamguptaji123-droid.github.io/Amazon_clone/
+
+🔗 **GitHub Repository:** https://github.com/anupamguptaji123-droid/Amazon_clone
+
+
 </div>
 
 
@@ -18,12 +26,6 @@
 
 This project is a front-end clone of the Amazon homepage created using pure HTML and CSS. It replicates the layout, navigation bar, hero section, product categories, and footer section of the original Amazon website while improving front-end development skills.
 
-
-## 🌟 Live Demo
-
-🔗 **Live Website:** https://anupamguptaji123-droid.github.io/Amazon_clone/
-
-🔗 **GitHub Repository:** https://github.com/anupamguptaji123-droid/Amazon_clone
 
 
 ## 📸 Project Preview
