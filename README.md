@@ -16,7 +16,7 @@
 
 🔗 **Live Website:** https://anupamguptaji123-droid.github.io/Amazon_clone/
 
-🔗 **GitHub Repository:** https://github.com/anupamguptaji123-droid/Amazon_clone
+🔗 **GitHub Repository:** https://github.com/anupamguptaji123-droid/Amazon_clone/
 
 
 </div>
